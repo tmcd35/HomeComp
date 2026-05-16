@@ -1,13 +1,18 @@
-## HomeComp – An Alternative History Microcomputer Ecosystem.
+## HomeComp – An Alternate-History Microcomputer Ecosystem.
 
 ### The Author
-To understand the project you need to understand a little about the author.  Don’t worry, no complete biography, just the salient facts.  I’m an old man in (at the time of typing) my late-forties.  I started with computers in the late 1980’s with a 16K Sinclair ZX Spectrum, then an Amstrad CPC464, Commodore Amiga’s and eventually Windows, Linux and MacOS computers.  
+To understand the project you need to understand a little about the author.  Don’t worry, no complete biography, just the salient facts.  I am a long-time retrocomputing enthusiast who started with computers in the late 1980s with a 16K Sinclair ZX Spectrum, then an Amstrad CPC464, Commodore Amigas and eventually Windows, Linux and MacOS computers.  
 
-I grew up surrounded by the popular micro’s in the UK market including things like BBC Micro’s, Commodore 64’s, and RM Nimbus PC’s.  I started with BASIC by copying magazine listings on my first computers but didn’t really learn to program until college were I picked up COBOL and Pascal.
+I grew up surrounded by the popular micros in the UK market including things like BBC Micros, Commodore 64s, and RM Nimbus PCs.  I started with BASIC by copying magazine listings on my first computers but didn’t really learn to program until college where I picked up COBOL and Pascal.
 
 Over the years I’ve dabbled with a few personal big projects.  Most notably a Pilot Interpreter for the Commodore Amiga in AMOS BASIC.  A Simple Machine Emulator in Pascal for university.  Conway’s Game Of Life in Java and Intel 8008, 8080 and Space Invaders Emulators.
 
 I’ve been studying the history of micro-computing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1979.
+
+### What This Repository Contains
+This public repository contains curated HomeComp project files, including emulator releases, documentation, ROM and cassette images, development tools, source-code examples, old project material, and supporting artefacts.
+
+The main emulator source code is not currently published here. This repository is the public archive and documentation front door for the wider HomeComp project.
 
 ### The Lore
 The Lore, or backstory, is central to this project and was developed over about a two week period with ChatGPT.  The basic concept is built upon three rather unlikely events:
