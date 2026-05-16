@@ -24,7 +24,7 @@ I’ve been studying the history of microcomputing and games consoles for a very
 This project was built and designed with significant assistance from ChatGPT, an AI large language model.  The general responsibility split was as follows:
 
 * HUMAN: Lead Designer, Project Manager, Tester, Researcher
-* AI: Research Assistant, Design Consultant, Code Generation
+* AI: Research Assistant, Design Consultant, Programmer
 
 It is important to note the high level of documentation and planning required to properly focus and bound the code generation.
 
