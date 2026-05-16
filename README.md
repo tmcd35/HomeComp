@@ -14,6 +14,14 @@ This public repository contains curated HomeComp project files, including emulat
 
 The main emulator source code is not currently published here. This repository is the public archive and documentation front door for the wider HomeComp project.
 
+### Important Acknowledgement
+This project was built and designed with significant assistance from the ChatGTP AI Large Languange Model.  The general responsibility split was as follows:
+
+* HUMAN: Lead Designer, Project Manager, Tester, Researcher
+* AI: Research Assistant, Design Consultant, Code Generation
+
+It is important to note the high level of documentation and planning required to properly focus and bound the code generation.
+
 ### The Lore
 The Lore, or backstory, is central to this project and was developed over about a two week period with ChatGPT.  The basic concept is built upon three rather unlikely events:
 
