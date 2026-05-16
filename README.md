@@ -1,4 +1,4 @@
-# HomeComp 
+# HomeComp
  *An Alternate-History Microcomputer Ecosystem*
 
 ## What This Repository Contains
@@ -12,11 +12,11 @@ The current public focus is **HomeComp Ecosystem Era 1**, beginning with the Sep
 The first release wave is intentionally small: it introduces the HC-77B base machine, supporting documentation, early emulator material, and the foundations for later software and peripheral releases. Future updates will expand the public archive gradually as additional fictional products are released into the ecosystem.
 
 ## The Author
-To understand the project you need to understand a little about the author.  Don’t worry, no complete biography, just the salient facts.  I am a long-time retrocomputing enthusiast who started with computers in the late 1980s with a 16K Sinclair ZX Spectrum, then an Amstrad CPC464, Commodore Amigas and eventually Windows, Linux and MacOS computers.  
+To understand the project you need to understand a little about the author.  Don’t worry, no complete biography, just the salient facts.  I am a long-time retrocomputing enthusiast who started with computers in the late 1980s with a 16K Sinclair ZX Spectrum, then an Amstrad CPC464, Commodore Amigas and eventually Windows, Linux and macOS computers.  
 
 I grew up surrounded by the popular micros in the UK market including things like BBC Micros, Commodore 64s, and RM Nimbus PCs.  I started with BASIC by copying magazine listings on my first computers but didn’t really learn to program until college where I picked up COBOL and Pascal.
 
-Over the years I’ve dabbled with a few personal big projects.  Most notably a Pilot Interpreter for the Commodore Amiga in AMOS BASIC.  A Simple Machine Emulator in Pascal for university.  Conway’s Game of Life in Java and Intel 8008, 8080 and Space Invaders Emulators.
+Over the years I’ve dabbled with a few personal big projects.  Most notably a PILOT interpreter for the Commodore Amiga in AMOS BASIC.  A Simple Machine Emulator in Pascal for university.  Conway’s Game of Life in Java and Intel 8008, 8080 and Space Invaders Emulators.
 
 I’ve been studying the history of microcomputing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1979.
 
@@ -35,12 +35,12 @@ The Lore, or backstory, is central to this project and was developed over about 
 * I am immortal or otherwise can appear as an 18 year old in 1975
 * I know the winner of the Grand National or Football Pools
 
-Given that far-fetched scenario, what would I have done differently? Could a fictional UK home micro company be guided through the pitfalls of the 1980s and 1990s into becoming a serious modern technology company?  Survive where Acorn, Sinclair and Amstrad failed.  Not repeat the mistakes of the Archimedes or Amiga?
+Given that far-fetched scenario, what would I have done differently? Could a fictional UK home micro company be guided through the pitfalls of the 1980s and 1990s into becoming a serious modern technology company?  Could it survive where Acorn, Sinclair and Amstrad failed and avoid repeating mistakes of the Archimedes or Amiga?
 
 The answer is, if you’re careful and unusually lucky (some may say prescient), yes.  There probably was a route for a UK manufacturer to survive into the modern era and become a major technology company alongside the dominant American platform holders.  A modern company would be focused on AI and wearable technologies.
 
 ## The Ecosystems
-In HomeComp terms an Ecosystem is a three year period which contains a main computing platform the fictional company would have been primarily offering the consumer at that time, and all the surrounding hardware, software, firmware, books and peripherals that make that core product feel real and complete.
+In HomeComp terms an Ecosystem is a three-year period which contains a main computing platform the fictional company would have been primarily offering the consumer at that time, and all the surrounding hardware, software, firmware, books and peripherals that make that core product feel real and complete.
 
 ### HomeComp Ecosystem Era 1
-Era 1 covers the period from 1977 to 1980.  This would have been the launch period and was dominated by single board systems.  Computers such as the Sinclair ZX80, Acorn System 1, Commodore KIM-1 and Nascom.  The aim was a £100-200 system board that a fledgling home micro company could build upon.  The result is a system that is essentially a KIM-1 clone (not compatible) and extends into something close to a Nascom-1. 
+Era 1 covers the period from 1977 to 1980.  This would have been the launch period and was dominated by single-board systems.  Computers such as the Sinclair ZX80, Acorn System 1, Commodore KIM-1 and Nascom.  The aim was a £100-200 system board that a fledgling home micro company could build upon.  The result is a system inspired by machines such as the KIM-1, while not being compatible with them, and which gradually extends toward something closer to the Nascom-1 class of machine.
