@@ -48,7 +48,7 @@ For machine-level operation, the included HC-77B User Manual PDF is authoritativ
 
 The September 1977 launch release presents the HC-77B as a 1 KB base system, while making clear that official RAM expansion to 4 KB is part of the planned product path.
 
-TTY, keyboard, and video expansions are available at launch. Cassette support is active in the emulator from launch, including the ability to create blank tapes.  No official cassette software is included at the September 1977 launch, but official cassette software is part of the announced early ecosystem path.
+TTY, keyboard, and video expansions are available at launch. Cassette support is active in the emulator from launch, including the ability to create blank tapes.  
 
 ## High-Level Memory Map
 
