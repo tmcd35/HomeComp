@@ -39,3 +39,7 @@ This section covers the released HC-77B expansion model, device lifecycle, memor
 ## Current Public Focus
 
 The current public focus is the September 1977 HC-77B launch. The wiki will expand gradually as later HomeComp ecosystem releases are added.
+
+## [Old Projects](Old-Projects)
+
+Links to Internet Wayback Machine copies of old websites and blogs
