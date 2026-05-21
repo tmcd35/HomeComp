@@ -48,7 +48,7 @@ For machine-level operation, the included HC-77B User Manual PDF is authoritativ
 
 The September 1977 launch release presents the HC-77B as a 1 KB base system, while making clear that official RAM expansion to 4 KB is part of the planned product path.
 
-TTY, keyboard, and video expansions are available at launch. Cassette support is active in the emulator from launch, including the ability to create blank tapes. No official cassette software is included at the September 1977 launch, but official cassette software is part of the announced early ecosystem path.
+TTY, keyboard, and video expansions are available at launch. Cassette support is active in the emulator from launch, including the ability to create blank tapes.  No official cassette software is included at the September 1977 launch, but official cassette software is part of the announced early ecosystem path.
 
 ## High-Level Memory Map
 
@@ -83,7 +83,7 @@ The front panel remains central even when optional launch expansions are present
 
 Cassette support is active in the emulator release.
 
-The emulator provides cassette handling through the release's `tapes/` folder and supports the creation of blank tapes. Official cassette software is not included with the September 1977 launch release, but cassette software is part of the early HomeComp ecosystem path.
+The emulator provides cassette handling through the release's `tapes/` folder and supports the creation of blank tapes.
 
 ## Launch Expansions
 
@@ -95,7 +95,7 @@ The following expansion paths are available at launch:
 | Keyboard | Available |
 | Video | Available |
 | RAM expansion | Planned official expansion path up to 4 KB total |
-| Cassette media | Supported by the emulator; official software follows later |
+| Cassette media | Supported by the emulator |
 
 The details of using emulator extensions and peripheral examples are covered in the [Expansion Bus API](Expansion-Bus-API) section.
 
@@ -113,7 +113,6 @@ The September 1977 emulator release supports the base HC-77B launch environment 
 | TTY expansion | Available |
 | Keyboard expansion | Available |
 | Video expansion | Available |
-| Official cassette software | Not included in the September 1977 launch release |
 
 ## Related Released Documents
 

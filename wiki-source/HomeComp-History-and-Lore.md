@@ -84,7 +84,7 @@ The HC-77B establishes the company's early product philosophy:
 - document the machine properly
 - build an ecosystem gradually rather than all at once
 
-At launch, the HC-77B is presented as a 1 KB base system with a clear path to 4 KB expansion. TTY, keyboard, and video expansions are available at launch, while official cassette software is part of the announced early ecosystem path rather than included immediately.
+At launch, the HC-77B is presented as a 1 KB base system with a clear path to 4 KB expansion. TTY, keyboard, and video expansions are available at launch, and cassette support is part of the system identity from the beginning.
 
 This keeps the September 1977 release focused. It introduces the machine, the company, and the public emulator environment without pretending the entire HomeComp world exists on day one.
 
@@ -94,7 +94,7 @@ The public HomeComp history is release-led.
 
 That means the wiki only documents company history that is relevant to released public material. When a new fictional product, software title, peripheral, manual, or ecosystem update is released, the history section can expand to explain its context.
 
-The next public additions may deepen the late-1977 story, but they should not require rewriting the launch premise.
+Each public addition should deepen the HomeComp story without requiring the launch premise to be rewritten.
 
 ## Relationship to the README
 

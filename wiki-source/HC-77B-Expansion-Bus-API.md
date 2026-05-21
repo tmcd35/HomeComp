@@ -15,6 +15,31 @@ The API allows an independently compiled .NET assembly to register one or more H
 | Address claim | A declared address range used for validation before attachment |
 | Device window | UI-neutral descriptor for a peripheral window exposed to the host UI |
 
+## Extension API Assembly
+
+Third-party extensions are compiled against the public HC-77B extension API assembly supplied with the emulator SDK.
+
+Recommended build reference:
+
+```text
+Hc.Emu.HC77.Api.dll
+```
+
+The API assembly contains the public contracts required by extensions, including:
+
+- `IHc77Extension`
+- `IHc77BusDevice`
+- `Hc77ExtensionContext`
+- `Hc77AddressClaim`
+- `IHc77AddressClaimProvider`
+- `Hc77DeviceWindowDescriptor`
+
+Extension authors should reference this DLL at compile time. Extension packages should not ship a private duplicate of the API DLL unless the release notes explicitly say otherwise.
+
+At runtime, the emulator provides the API assembly used to identify and load extension types.
+
+The public SDK package is supplied with the [released developer tools](https://github.com/tmcd35/HomeComp/blob/master/developer-tools/hc77b-extension-sdk/hc77b-extension-sdk.zip).
+
 ## Loading Model
 
 Extensions are loaded from a manifest file while the HC-77B machine is powered off.

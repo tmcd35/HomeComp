@@ -96,6 +96,7 @@ If macOS blocks the app even after using **Open Anyway**, remove the quarantine 
 
 ```bash
 xattr -dr com.apple.quarantine "HC-77B Emulator.app"
+```
 
 ### Linux
 
@@ -125,7 +126,7 @@ About
 
 ### System
 
-The System menu provide for Power On, Power Off for starting and stopping the emulated hardware, and Exit to quit the application.
+The System menu provides Power On and Power Off controls for starting and stopping the emulated hardware, plus Exit to quit the application.
 
 ### Devices
 
