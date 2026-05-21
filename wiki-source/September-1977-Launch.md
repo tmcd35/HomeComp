@@ -4,6 +4,10 @@ The September 1977 launch is the first public HomeComp release wave.
 
 It introduces the HC-77B and establishes the starting point for HomeComp Ecosystem Era 1.
 
+![HC-77B September 1977 product sheet](https://github.com/tmcd35/HomeComp/raw/master/documents/advertising/HC-77B%20Product%20Sheet.png)
+
+*September 1977 HC-77B launch product sheet.*
+
 ## Release Contents
 
 | Category | Released Material |

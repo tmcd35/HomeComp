@@ -17,6 +17,10 @@ The HC-77B is the first publicly released HomeComp machine.
 
 The HC-77B launch release establishes the starting point for HomeComp Ecosystem Era 1.
 
+![HC-77B system board overview](https://github.com/tmcd35/HomeComp/raw/master/site-assets/images/wiki/hc-77b-system-board.png)
+
+*HC-77B system board overview.*
+
 ## Technical Summary
 
 | Area | HC-77B Launch Specification |
