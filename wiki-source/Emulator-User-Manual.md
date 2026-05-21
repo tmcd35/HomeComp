@@ -124,7 +124,6 @@ Devices
 About
 ```
 
-```markdown
 ![HC-77B emulator System menu](https://github.com/tmcd35/HomeComp/raw/master/site-assets/images/wiki/hc-77b-system-menu.png)
 
 *The emulator System menu provides the main power and application controls.*
