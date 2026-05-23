@@ -15,6 +15,17 @@ Over the years I’ve dabbled with a few personal big projects.  Most notably a 
 
 I’ve been studying the history of microcomputing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1979.
 
+## Current Public Focus
+The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch.
+
+The first release wave is intentionally small: it introduces the HC-77B base machine, supporting documentation, early emulator material, and the foundations for later software and peripheral releases. Future updates will expand the public archive gradually as additional fictional products are released into the ecosystem.
+
+## Wiki
+
+Structured project documentation is available in the [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki).
+
+The wiki covers emulator use, released machine specifications, HomeComp history, ecosystem release details, and the HC-77B expansion bus API.
+
 ## Important Acknowledgement
 This project was built and designed with significant assistance from ChatGPT, an AI large language model.  The general responsibility split was as follows:
 
@@ -39,17 +50,6 @@ In HomeComp terms an Ecosystem is a three-year period which contains a main comp
 
 ### HomeComp Ecosystem Era 1
 Era 1 covers the period from 1977 to 1980.  This would have been the launch period and was dominated by single-board systems.  Computers such as the Sinclair ZX80, Acorn System 1, Commodore KIM-1 and Nascom.  The aim was a £100-200 system board that a fledgling home micro company could build upon.  The result is a system inspired by machines such as the KIM-1, while not being compatible with them, and which gradually extends toward something closer to the Nascom-1 class of machine.
-
-## Current Public Focus
-The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch.
-
-The first release wave is intentionally small: it introduces the HC-77B base machine, supporting documentation, early emulator material, and the foundations for later software and peripheral releases. Future updates will expand the public archive gradually as additional fictional products are released into the ecosystem.
-
-## Wiki
-
-Structured project documentation is available in the [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki).
-
-The wiki covers emulator use, released machine specifications, HomeComp history, ecosystem release details, and the HC-77B expansion bus API.
 
 ## Copyright, Licensing and Giftware
 
