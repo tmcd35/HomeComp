@@ -6,11 +6,6 @@ This public repository contains curated HomeComp project files, including emulat
 
 The main emulator source code is not currently published here. This repository is the public archive and documentation front door for the wider HomeComp project.
 
-## Current Public Focus
-The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch.
-
-The first release wave is intentionally small: it introduces the HC-77B base machine, supporting documentation, early emulator material, and the foundations for later software and peripheral releases. Future updates will expand the public archive gradually as additional fictional products are released into the ecosystem.
-
 ## The Author
 To understand the project you need to understand a little about the author.  Don’t worry, no complete biography, just the salient facts.  I am a long-time retrocomputing enthusiast who started with computers in the late 1980s with a 16K Sinclair ZX Spectrum, then an Amstrad CPC464, Commodore Amigas and eventually Windows, Linux and macOS computers.  
 
@@ -44,3 +39,28 @@ In HomeComp terms an Ecosystem is a three-year period which contains a main comp
 
 ### HomeComp Ecosystem Era 1
 Era 1 covers the period from 1977 to 1980.  This would have been the launch period and was dominated by single-board systems.  Computers such as the Sinclair ZX80, Acorn System 1, Commodore KIM-1 and Nascom.  The aim was a £100-200 system board that a fledgling home micro company could build upon.  The result is a system inspired by machines such as the KIM-1, while not being compatible with them, and which gradually extends toward something closer to the Nascom-1 class of machine.
+
+## Current Public Focus
+The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch.
+
+The first release wave is intentionally small: it introduces the HC-77B base machine, supporting documentation, early emulator material, and the foundations for later software and peripheral releases. Future updates will expand the public archive gradually as additional fictional products are released into the ecosystem.
+
+## Wiki
+
+Structured project documentation is available in the [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki).
+
+The wiki covers emulator use, released machine specifications, HomeComp history, ecosystem release details, and the HC-77B expansion bus API.
+
+## Copyright, Licensing and Giftware
+
+HomeComp is not an open-source project. The main emulator source code is not currently published in full.
+
+Public HomeComp releases are made available in the public domain as giftware. They may be downloaded, used, copied, shared, and archived freely. Optional donations may be accepted through itch.io and Ko-fi, but payment is not required.
+
+Some source material may be published where it is useful to the project, including CPU cores, monitor assembly listings, BASIC listings, example programs, SDK material, and third-party extension examples. The publication of selected source material does not make the overall project open source.
+
+Where a specific source package or listing carries its own licence notice, that notice applies to that material.
+
+Much of the HomeComp codebase and supporting material has been produced with AI assistance. The project does not intentionally include copied proprietary code, artwork, text, game assets, characters, or trademarks. Some software, interfaces, games, examples, and fictional products may be influenced by period hardware, common programming techniques, public-domain examples, historical systems, or familiar genre ideas.
+
+If any material appears to infringe an existing copyright or trademark, please raise an issue so it can be reviewed and, if necessary, removed, replaced, rewritten, or relicensed.
