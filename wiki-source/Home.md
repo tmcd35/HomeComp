@@ -43,3 +43,7 @@ The current public focus is the September 1977 HC-77B launch. The wiki will expa
 ## [Old Projects](Old-Projects)
 
 Links to Internet Wayback Machine copies of old websites and blogs
+
+## Project Notices
+
+For licensing, giftware, copyright, and AI-assistance notes, see [Copyright, Licensing and Giftware](Copyright-Licensing-and-Giftware).
