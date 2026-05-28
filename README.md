@@ -13,7 +13,7 @@ I grew up surrounded by the popular micros in the UK market including things lik
 
 Over the years I’ve dabbled with a few personal big projects.  Most notably a PILOT interpreter for the Commodore Amiga in AMOS BASIC.  A Simple Machine Emulator in Pascal for university.  Conway’s Game of Life in Java and Intel 8008, 8080 and Space Invaders Emulators.
 
-I’ve been studying the history of microcomputing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1979.
+I’ve been studying the history of microcomputing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1975.
 
 ## Current Public Focus
 The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch.
