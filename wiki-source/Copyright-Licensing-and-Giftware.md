@@ -26,7 +26,7 @@ This is intended to allow the project material to be read, shared, archived, dis
 
 ## Published Source Code and Listings
 
-Where source code is published, including CPU cores, monitor assembly listings, BASIC listings, example programs, SDK material, and third-party extension examples, it is offered under a copyleft licence stated with that material.
+Where source code is published, including CPU cores, monitor assembly listings, BASIC listings, example programs, SDK material, and third-party extension examples, it is released on the same public-domain giftware basis unless a specific source package or file says otherwise.
 
 Examples may include:
 
@@ -37,7 +37,7 @@ Examples may include:
 - extension SDK examples
 - third-party peripheral examples
 
-Always check the licence notice included with the specific source file or package.
+The publication of selected source material does not make the overall HomeComp project open source.
 
 ## AI Assistance
 

@@ -26,6 +26,12 @@
 - [Overview](Expansion-Bus-API)
 - [HC-77B Expansion Bus API](HC-77B-Expansion-Bus-API)
 
+## Project Links
+- [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)
+- [HomeComp on itch.io](https://homecomp.itch.io/homecomp-microcomputers)
+- [Support HomeComp on Ko-fi](https://ko-fi.com/homecomp)
+- [HomeComp subreddit](https://www.reddit.com/r/HomeComp/)
+
 ## Old Projects and Websites
 
 - [Old Projects](Old-Projects)

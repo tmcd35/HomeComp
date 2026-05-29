@@ -24,11 +24,11 @@ It introduces the HC-77B and establishes the starting point for HomeComp Ecosyst
 
 The September 1977 launch includes three standalone extension products available in the repository's `extensions/` section.
 
-| Extension | Role |
-|---|---|
-| TTY Interface | Adds teletype-style character input/output support |
-| Video Display Controller | Adds video display support for the HC-77B |
-| Keyboard | Adds keyboard input support for expanded use |
+| Extension | Role | Repository |
+|---|---|---|
+| TTY Interface | Adds teletype-style character input/output support | [Extension files](https://github.com/tmcd35/HomeComp/tree/master/extensions/HC-77B/TTY) |
+| Video Display Controller | Adds video display support for the HC-77B | [Extension files](https://github.com/tmcd35/HomeComp/tree/master/extensions/HC-77B/Display) |
+| Keyboard | Adds keyboard input support for expanded use | [Extension files](https://github.com/tmcd35/HomeComp/tree/master/extensions/HC-77B/Keyboard) |
 
 These are treated as public launch products rather than built-in assumptions of the base HC-77B package.
 

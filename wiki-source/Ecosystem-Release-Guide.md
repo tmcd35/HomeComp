@@ -19,6 +19,10 @@ It answers:
 
 - [September 1977 Launch](September-1977-Launch)
 
+## Next Release Phase
+
+The next planned public release phase is **Late 1977 — NIM Cassette**.
+
 ## Release Categories
 
 A release wave may include:

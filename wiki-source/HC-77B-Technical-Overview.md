@@ -122,4 +122,10 @@ The September 1977 emulator release supports the base HC-77B launch environment 
 
 The emulator release includes the authoritative HC-77B machine documentation in PDF form.
 
+Useful repository files:
+
+- [HC-77B Product Sheet PDF](https://github.com/tmcd35/HomeComp/blob/master/documents/User/HC77B/hc_77b_product_sheet.pdf)
+- [HC-77B Product Sheet Image](https://github.com/tmcd35/HomeComp/blob/master/documents/advertising/HC-77B%20Product%20Sheet.png)
+- [HC-77B Technical Specifications](https://github.com/tmcd35/HomeComp/blob/master/documents/User/HC77B/Technical%20Specifications.docx)
+
 Use the included documentation for detailed machine operation, worked examples, and front-panel monitor behaviour. This wiki page is intended only as a public technical overview.

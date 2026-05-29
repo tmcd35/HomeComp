@@ -38,7 +38,15 @@ This section covers the released HC-77B expansion model, device lifecycle, memor
 
 ## Current Public Focus
 
-The current public focus is the September 1977 HC-77B launch. The wiki will expand gradually as later HomeComp ecosystem releases are added.
+The current public focus is the September 1977 HC-77B launch. The launch release includes the HC-77B base system, emulator builds, documentation, cassette support, and the first three standalone extensions: TTY Interface, Video Display Controller, and Keyboard.
+
+The next release phase is **Late 1977 — NIM Cassette**.
+
+## Project Links
+- [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)
+- [HomeComp on itch.io](https://homecomp.itch.io/homecomp-microcomputers)
+- [Support HomeComp on Ko-fi](https://ko-fi.com/homecomp)
+- [HomeComp subreddit](https://www.reddit.com/r/HomeComp/)
 
 ## [Old Projects](Old-Projects)
 

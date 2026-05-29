@@ -38,7 +38,7 @@ Extension authors should reference this DLL at compile time. Extension packages 
 
 At runtime, the emulator provides the API assembly used to identify and load extension types.
 
-The public SDK package is supplied with the [released developer tools](https://github.com/tmcd35/HomeComp/blob/master/developer-tools/hc77b-extension-sdk/hc77b-extension-sdk.zip).
+The public SDK package is supplied with the [released developer tools](https://github.com/tmcd35/HomeComp/tree/master/developer-tools/hc77b-extensions-sdk/).
 
 ## Loading Model
 

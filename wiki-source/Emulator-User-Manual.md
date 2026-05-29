@@ -4,6 +4,8 @@ This page explains how to run the released HomeComp emulator as a modern applica
 
 It is not the HC-77B machine user manual. The fictional HC-77B manual is included separately in PDF form with the emulator release and explains the front-panel monitor, address entry, data entry, register display, program execution, and cassette operations.
 
+Release files are stored in the main [HomeComp repository](https://github.com/tmcd35/HomeComp).
+
 ## Current Release Scope
 
 The current public release covers the September 1977 HC-77B launch.
