@@ -20,11 +20,11 @@ The current public focus is **HomeComp Ecosystem Era 1**, beginning with the Sep
 
 The first release wave is intentionally small: it introduces the HC-77B base machine, supporting documentation, early emulator material, and the foundations for later software and peripheral releases. Future updates will expand the public archive gradually as additional fictional products are released into the ecosystem.
 
-## Wiki
-
-Structured project documentation is available in the [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki).
-
-The wiki covers emulator use, released machine specifications, HomeComp history, ecosystem release details, and the HC-77B expansion bus API.
+## Project Links
+- [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)
+- [HomeComp on itch.io](https://homecomp.itch.io/homecomp-microcomputers)
+- [Support HomeComp on Ko-fi](https://ko-fi.com/homecomp)
+- [HomeComp subreddit](https://www.reddit.com/r/HomeComp/)
 
 ## Important Acknowledgement
 This project was built and designed with significant assistance from ChatGPT, an AI large language model.  The general responsibility split was as follows:
