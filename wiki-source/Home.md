@@ -38,9 +38,13 @@ This section covers the released HC-77B expansion model, device lifecycle, memor
 
 ## Current Public Focus
 
-The current public focus is the September 1977 HC-77B launch. The launch release includes the HC-77B base system, emulator builds, documentation, cassette support, and the first three standalone extensions: TTY Interface, Video Display Controller, and Keyboard.
+The current public archive covers the September 1977 HC-77B launch and the late-1977 3K RAM Expansion / NIM cassette release.
 
-The next release phase is **Late 1977 — NIM Cassette**.
+The September launch release includes the HC-77B base system, emulator builds, documentation, cassette support, and the first three standalone extensions: TTY Interface, Video Display Controller, and Keyboard.
+
+The late-1977 release adds the official 3K RAM Expansion, bundled with a free NIM game cassette.
+
+The next release phase is **March/April 1978 — Advanced Monitor Tools and HC Cassette BASIC**.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)

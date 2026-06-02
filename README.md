@@ -16,9 +16,11 @@ Over the years I’ve dabbled with a few personal big projects.  Most notably a 
 I’ve been studying the history of microcomputing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1975.
 
 ## Current Public Focus
-The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch.
+The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch and continuing with the late-1977 3K RAM Expansion / NIM cassette release.
 
-The first release wave is intentionally small: it introduces the HC-77B base machine, supporting documentation, early emulator material, and the foundations for later software and peripheral releases. Future updates will expand the public archive gradually as additional fictional products are released into the ecosystem.
+The public archive currently includes the HC-77B base machine, emulator builds, supporting documentation, cassette support, the three September 1977 launch extensions, the official 3K RAM Expansion, and the bundled NIM game cassette.
+
+The next release phase is **March/April 1978**, focused on the Advanced Monitor Tools Cassette and the HC Cassette BASIC Cassette.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)

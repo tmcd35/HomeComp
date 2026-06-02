@@ -15,13 +15,14 @@ It answers:
 - which system or ecosystem era it introduces
 - where to go for emulator usage, machine details, lore, or API documentation
 
-## Current Release Wave
+## Current Release Waves
 
 - [September 1977 Launch](September-1977-Launch)
+- [Late 1977 — 3K RAM Expansion and NIM Cassette](Late-1977-RAM-Expansion-and-NIM)
 
 ## Next Release Phase
 
-The next planned public release phase is **Late 1977 — NIM Cassette**.
+The next planned public release phase is **March/April 1978 — Advanced Monitor Tools and HC Cassette BASIC**.
 
 ## Release Categories
 

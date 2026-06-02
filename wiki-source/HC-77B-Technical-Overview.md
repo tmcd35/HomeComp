@@ -50,7 +50,7 @@ For machine-level operation, the included HC-77B User Manual PDF is authoritativ
 
 ## Launch Configuration
 
-The September 1977 launch release presents the HC-77B as a 1 KB base system, while making clear that official RAM expansion to 4 KB is part of the planned product path.
+The September 1977 launch release presents the HC-77B as a 1 KB base system. The late-1977 3K RAM Expansion extends the machine to the planned 4 KB configuration.
 
 TTY, keyboard, and video expansions are available at launch. Cassette support is active in the emulator from launch, including the ability to create blank tapes.  
 
@@ -61,7 +61,7 @@ The HC-77B uses a conventional 6502-style low-RAM, high-ROM arrangement.
 | Address Range | Purpose | Notes |
 |---|---|---|
 | `$0000-$03FF` | Base RAM | 1 KB fitted in the launch machine |
-| `$0400-$0FFF` | RAM expansion | Reserved for official RAM expansion up to 4 KB total |
+| `$0400-$0FFF` | RAM expansion | Used by the official 3K RAM Expansion |
 | `$1000-$EFFF` | General expansion space | Reserved for expansion ROM, RAM, or peripheral use |
 | `$F000-$F1FF` | Screen RAM | Used when video expansion is fitted |
 | `$F200-$F6FF` | Reserved I/O and expansion space | Video, keyboard, peripheral, and future device space |
@@ -98,7 +98,7 @@ The following expansion paths are available at launch:
 | TTY | Available |
 | Keyboard | Available |
 | Video | Available |
-| RAM expansion | Planned official expansion path up to 4 KB total |
+| RAM expansion | Official 3K RAM Expansion available |
 | Cassette media | Supported by the emulator |
 
 The details of using emulator extensions and peripheral examples are covered in the [Expansion Bus API](Expansion-Bus-API) section.
@@ -127,5 +127,6 @@ Useful repository files:
 - [HC-77B Product Sheet PDF](https://github.com/tmcd35/HomeComp/blob/master/documents/User/HC77B/hc_77b_product_sheet.pdf)
 - [HC-77B Product Sheet Image](https://github.com/tmcd35/HomeComp/blob/master/documents/advertising/HC-77B%20Product%20Sheet.png)
 - [HC-77B Technical Specifications](https://github.com/tmcd35/HomeComp/blob/master/documents/User/HC77B/Technical%20Specifications.docx)
+- [3K RAM Expantion with NIM Cassette Bundle](https://github.com/tmcd35/HomeComp/tree/master/extensions/HC-77B/RAM)
 
 Use the included documentation for detailed machine operation, worked examples, and front-panel monitor behaviour. This wiki page is intended only as a public technical overview.
