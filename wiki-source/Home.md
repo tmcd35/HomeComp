@@ -44,7 +44,9 @@ The September launch release includes the HC-77B base system, emulator builds, d
 
 The late-1977 release adds the official 3K RAM Expansion, bundled with a free NIM game cassette.
 
-The next release phase is **March/April 1978 — Advanced Monitor Tools and HC Cassette BASIC**.
+Easter 1978 brings two additional cassette based software releases.  An Advanced Monitor Tools Cassette giving a command line access to the systems Monitor ROM as well as a line based text editor and 6502 Assembler.  The second cassette provides a version of the Tiny BASIC programming language.
+
+The next release phase is **Mid 1978 — 8x24 Scrolling LED Display**.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)
