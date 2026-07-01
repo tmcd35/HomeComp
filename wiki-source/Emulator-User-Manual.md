@@ -10,13 +10,15 @@ Release files are stored in the main [HomeComp repository](https://github.com/tm
 
 The current public release covers the first year of HomeComp's HC-77B Single Board Computer.
 
-September 1977 saw the release of the HC-77B system itself along with optional expansion hardware to connect a Teletype (TTY) device, Keyboard, and connetion to a televisions set (CRT Display).
+September 1977 saw the release of the HC-77B system itself along with optional expansion hardware to connect a Teletype (TTY) device, Keyboard, and television display controller.
 
-In November 1977 a 3K RAM Expansion was released giving a total 4K user space.  The RAM expansion was bundled with a free cassette game, NIM.
+In November 1977 a 3K RAM Expansion was released, giving a total 4K user space. The RAM expansion was bundled with a free cassette game, NIM.
 
-Easter 1978 brought the first two big cassette software releases.  An Advanced Monitor Tools cassette giving command line access to the System ROM, a text editor and 6502 Assembler.  And a version of the Tiny BASIC programming language.
+Easter 1978 brought the first two major cassette software releases: an Advanced Monitor Tools cassette giving command-line access to the system ROM, a text editor, and a 6502 assembler; and HC Cassette BASIC.
 
-The next release will be a focused on mid-9178 and 8x24 scrolling LED display.
+Mid 1978 adds the HC Scrolling LED Display: a 32×8, single-colour red LED peripheral and a base-machine demonstration cassette. The display appears through the emulator's **Devices** menu when its extension is installed.
+
+The next planned release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
 
 ## Supported Platforms
 

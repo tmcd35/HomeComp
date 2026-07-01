@@ -20,10 +20,13 @@ It answers:
 - [September 1977 Launch](September-1977-Launch)
 - [Late 1977 — 3K RAM Expansion and NIM Cassette](Late-1977-RAM-Expansion-and-NIM)
 - [Easter 1978 - Advanced Monitor Tools and HC Cassette BASIC](Easter-1978-Advanced-Monitor-and-Cassette-BASIC.md)
+- [Mid 1978 — Scrolling LED Display](Mid-1978-Scrolling-LED-Display)
 
 ## Next Release Phase
 
-The next planned public release phase is **Mid 1978 - 8x24 Scrolling LED Display**.
+The next planned public release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
+
+See [September 1978 — HC-PILOT and 8K ROM BASIC](September-1978-HC-PILOT-and-8K-ROM-BASIC).
 
 ## Release Categories
 

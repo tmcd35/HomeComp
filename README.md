@@ -16,11 +16,13 @@ Over the years I’ve dabbled with a few personal big projects.  Most notably a 
 I’ve been studying the history of microcomputing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1975.
 
 ## Current Public Focus
-The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch and continuing with the late-1977 3K RAM Expansion / NIM cassette release.
+The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch and now covering releases through the Mid 1978 Scrolling LED Display.
 
-The public archive currently includes the HC-77B base machine, emulator builds, supporting documentation, cassette support, the three September 1977 launch extensions, the official 3K RAM Expansion, and the bundled NIM game cassette.  There is also two cassette releases, an Advanced Monitor Tools cassette and the HC-Cassette BASIC cassette.
+The public archive includes the HC-77B base machine, emulator builds, supporting documentation, cassette support, the three September 1977 launch extensions, the official 3K RAM Expansion and bundled NIM game cassette, Advanced Monitor Tools, and HC Cassette BASIC.
 
-The next release phase is **Mid 1978**, a 8x24 scrolling LED dispaly.
+Mid 1978 adds the official **HC Scrolling LED Display**: a 32×8, 256-LED red matrix peripheral with a base-machine message-scrolling demo cassette. It is a deliberately direct hardware extension rather than another text terminal or CRT display.
+
+The next release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)

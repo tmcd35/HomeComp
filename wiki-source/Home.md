@@ -38,15 +38,17 @@ This section covers the released HC-77B expansion model, device lifecycle, memor
 
 ## Current Public Focus
 
-The current public archive covers the September 1977 HC-77B launch and the late-1977 3K RAM Expansion / NIM cassette release.
+The current public archive covers the first year of the HC-77B, from the September 1977 launch through the Mid 1978 Scrolling LED Display release.
 
 The September launch release includes the HC-77B base system, emulator builds, documentation, cassette support, and the first three standalone extensions: TTY Interface, Video Display Controller, and Keyboard.
 
 The late-1977 release adds the official 3K RAM Expansion, bundled with a free NIM game cassette.
 
-Easter 1978 brings two additional cassette based software releases.  An Advanced Monitor Tools Cassette giving a command line access to the systems Monitor ROM as well as a line based text editor and 6502 Assembler.  The second cassette provides a version of the Tiny BASIC programming language.
+Easter 1978 adds two cassette-based software releases: Advanced Monitor Tools, providing command access to the system monitor, a text editor, and a 6502 assembler; and HC Cassette BASIC, HomeComp's first BASIC language release.
 
-The next release phase is **Mid 1978 — 8x24 Scrolling LED Display**.
+Mid 1978 adds the [HC Scrolling LED Display](HC-77B-Scrolling-LED-Display): a 32×8, 256-LED directly programmed peripheral with a base-machine scrolling-message demo cassette.
+
+The next planned release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)
