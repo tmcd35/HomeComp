@@ -46,9 +46,7 @@ The late-1977 release adds the official 3K RAM Expansion, bundled with a free NI
 
 Easter 1978 adds two cassette-based software releases: Advanced Monitor Tools, providing command access to the system monitor, a text editor, and a 6502 assembler; and HC Cassette BASIC, HomeComp's first BASIC language release.
 
-Mid 1978 adds the [HC Scrolling LED Display](HC-77B-Scrolling-LED-Display): a 32×8, 256-LED directly programmed peripheral with a base-machine scrolling-message demo cassette.
-
-The next planned release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
+September 1978 adds [HC-77B 8K ROM BASIC](September-1978-8K-ROM-BASIC), HomeComp’s first resident floating-point BASIC. The ROM supports both TTY and Keyboard/CRT systems, operates with either 1K or 4K RAM, imports earlier HC Cassette BASIC programs, and provides direct memory and machine-code access.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)

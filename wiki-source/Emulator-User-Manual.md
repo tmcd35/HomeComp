@@ -18,7 +18,7 @@ Easter 1978 brought the first two major cassette software releases: an Advanced 
 
 Mid 1978 adds the HC Scrolling LED Display: a 32×8, single-colour red LED peripheral and a base-machine demonstration cassette. The display appears through the emulator's **Devices** menu when its extension is installed.
 
-The next planned release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
+September 1978 adds the HC-77B 8K ROM BASIC configuration. The ROM BASIC release provides a resident programming environment for TTY and Keyboard/CRT systems and includes compatibility import for earlier HC Cassette BASIC programs.
 
 ## Supported Platforms
 

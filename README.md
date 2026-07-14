@@ -16,13 +16,28 @@ Over the years I’ve dabbled with a few personal big projects.  Most notably a 
 I’ve been studying the history of microcomputing and games consoles for a very long time and have amassed a sizeable collection of retro computing magazines in PDF format dating back to 1975.
 
 ## Current Public Focus
-The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch and now covering releases through the Mid 1978 Scrolling LED Display.
 
-The public archive includes the HC-77B base machine, emulator builds, supporting documentation, cassette support, the three September 1977 launch extensions, the official 3K RAM Expansion and bundled NIM game cassette, Advanced Monitor Tools, and HC Cassette BASIC.
+The current public focus is **HomeComp Ecosystem Era 1**, beginning with the September 1977 HC-77B launch and now covering public releases through **September 1978**.
 
-Mid 1978 adds the official **HC Scrolling LED Display**: a 32×8, 256-LED red matrix peripheral with a base-machine message-scrolling demo cassette. It is a deliberately direct hardware extension rather than another text terminal or CRT display.
+The public archive includes the HC-77B base machine, emulator builds, supporting documentation, cassette support, the three September 1977 launch extensions, the official 3K RAM Expansion and bundled NIM game cassette, Advanced Monitor Tools, HC Cassette BASIC, and the Mid 1978 Scrolling LED Display.
 
-The next release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
+The September 1978 release adds **HC-77B 8K ROM BASIC**, HomeComp’s first resident ROM programming language.
+
+HC ROM BASIC combines an LLL-derived floating-point BASIC with HomeComp’s monitor and editor conventions. One ROM supports both TTY and Keyboard/CRT systems, operates on either the original 1K machine or the expanded 4K configuration, imports earlier HC Cassette BASIC programs on a 4K system, and introduces the native HCB4 program format.
+
+Highlights include:
+
+- floating-point numeric arithmetic
+- numeric variables `A` to `M`
+- fixed-length string variables
+- mixed numeric and string `INPUT` and `PRINT`
+- `RND()`, `LEN()`, `ABS()` and `INT()` functions
+- hexadecimal literals using `$`
+- direct memory and machine-code access through `GET()`, `PUT` and `CALL`
+- native cassette save and load
+- compatibility import for HC Cassette BASIC programs
+
+See the [September 1978 — HC-77B 8K ROM BASIC](https://github.com/tmcd35/HomeComp/wiki/September-1978-8K-ROM-BASIC) release page for details.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)

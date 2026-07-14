@@ -18,7 +18,7 @@
 - [September 1977 Launch](September-1977-Launch)
 - [Late 1977 — 3K RAM Expansion and NIM](Late-1977-RAM-Expansion-and-NIM)
 - [Easter 1978 - Advanced Monitor Tools and HC-Cassette BASIC](Easter-1978-Advanced-Monitor-and-Cassette-BASIC)
-- [September 1978 — HC-PILOT and 8K ROM BASIC](September-1978-HC-PILOT-and-8K-ROM-BASIC)
+- [September 1978 — 8K ROM BASIC](September-1978-8K-ROM-BASIC)
 
 ## 5. Expansion Bus API
 - [Overview](Expansion-Bus-API)
