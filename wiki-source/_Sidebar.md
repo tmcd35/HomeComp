@@ -7,7 +7,7 @@
 ## 2. Machine Technical Reference
 - [Overview](Machine-Technical-Reference)
 - [HC-77B Technical Overview](HC-77B-Technical-Overview)
-- [HC-77B Scrolling LED Display](HC-77B-Scrolling-LED-Display)
+- [HC-77B Bundle Overview](HC-77B-Bundle-Overview)
 
 ## 3. HomeComp History & Lore
 - [Overview](HomeComp-History-and-Lore)
@@ -18,6 +18,7 @@
 - [September 1977 Launch](September-1977-Launch)
 - [Late 1977 — 3K RAM Expansion and NIM](Late-1977-RAM-Expansion-and-NIM)
 - [Easter 1978 - Advanced Monitor Tools and HC-Cassette BASIC](Easter-1978-Advanced-Monitor-and-Cassette-BASIC)
+- [Mid 1978 - Scrolling LED Display](Mid-1978-Scrolling-LED-Display.md)
 - [September 1978 — 8K ROM BASIC](September-1978-8K-ROM-BASIC)
 
 ## 5. Expansion Bus API

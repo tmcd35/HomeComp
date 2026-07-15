@@ -23,12 +23,6 @@ It answers:
 - [Mid 1978 — Scrolling LED Display](Mid-1978-Scrolling-LED-Display)
 - [September 1978 — HC-77B 8K ROM BASIC](September-1978-8K-ROM-BASIC)
 
-## Next Release Phase
-
-The next planned public release phase is **September 1978 — HC-PILOT and 8K ROM BASIC**.
-
-See [September 1978 — HC-PILOT and 8K ROM BASIC](September-1978-HC-PILOT-and-8K-ROM-BASIC).
-
 ## Release Categories
 
 A release wave may include:
