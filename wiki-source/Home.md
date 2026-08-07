@@ -38,15 +38,21 @@ This section covers the released HC-77B expansion model, device lifecycle, memor
 
 ## Current Public Focus
 
-The current public archive covers the first year of the HC-77B, from the September 1977 launch through the Mid 1978 Scrolling LED Display release.
+The current public archive covers the development of the HC-77B from its September 1977 launch through **Late 1979**.
 
-The September launch release includes the HC-77B base system, emulator builds, documentation, cassette support, and the first three standalone extensions: TTY Interface, Video Display Controller, and Keyboard.
+The September 1977 launch introduced the HC-77B base system together with the TTY Interface, Video Display Controller and Keyboard extensions.
 
-The late-1977 release adds the official 3K RAM Expansion, bundled with a free NIM game cassette.
+Late 1977 added the official 3K RAM Expansion and bundled NIM cassette.
 
-Easter 1978 adds two cassette-based software releases: Advanced Monitor Tools, providing command access to the system monitor, a text editor, and a 6502 assembler; and HC Cassette BASIC, HomeComp's first BASIC language release.
+Easter 1978 added Advanced Monitor Tools and HC Cassette BASIC, followed by the Mid 1978 Scrolling LED Display.
 
-September 1978 adds [HC-77B 8K ROM BASIC](September-1978-8K-ROM-BASIC), HomeComp’s first resident floating-point BASIC. The ROM supports both TTY and Keyboard/CRT systems, operates with either 1K or 4K RAM, imports earlier HC Cassette BASIC programs, and provides direct memory and machine-code access.
+September 1978 introduced [HC-77B 8K ROM BASIC](September-1978-8K-ROM-BASIC), HomeComp's first resident floating-point BASIC.
+
+Easter 1979 brought the HC-77B Complete System Bundle, combining the mature 4K, Keyboard/CRT and ROM BASIC configuration into a complete home-computer package.
+
+The latest release is the [Late 1979 — HC-77B Text & Printer Pack](Late-1979-Text-and-Printer-Pack).
+
+The Text & Printer Pack adds a 40-column impact printer and resident CRT Text Editor, including cassette document storage, 255-character logical lines, whole-document printing, persistent virtual paper, PDF export and a public standalone printer ROM API.
 
 ## Project Links
 - [HomeComp Wiki](https://github.com/tmcd35/HomeComp/wiki)

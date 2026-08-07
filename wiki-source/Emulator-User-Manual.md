@@ -8,7 +8,7 @@ Release files are stored in the main [HomeComp repository](https://github.com/tm
 
 ## Current Release Scope
 
-The current public release covers the first year of HomeComp's HC-77B Single Board Computer.
+The current public release covers the HomeComp's HC-77B Single Board Computer.
 
 September 1977 saw the release of the HC-77B system itself along with optional expansion hardware to connect a Teletype (TTY) device, Keyboard, and television display controller.
 
@@ -19,6 +19,10 @@ Easter 1978 brought the first two major cassette software releases: an Advanced 
 Mid 1978 adds the HC Scrolling LED Display: a 32×8, single-colour red LED peripheral and a base-machine demonstration cassette. The display appears through the emulator's **Devices** menu when its extension is installed.
 
 September 1978 adds the HC-77B 8K ROM BASIC configuration. The ROM BASIC release provides a resident programming environment for TTY and Keyboard/CRT systems and includes compatibility import for earlier HC Cassette BASIC programs.
+
+Easter 1979 introduces the HC-77B Complete System Bundle, bringing the mature 4K RAM, Keyboard/CRT and ROM BASIC configuration together as a complete system.
+
+Late 1979 adds the **HC-77B Text & Printer Pack**. The expansion provides a 40-column virtual impact printer together with the resident Text Editor and printer ROM. The printer appears through the emulator's **Devices** menu and supports persistent virtual paper, manual paper feed, PDF export, host printing and clearing of printed output.
 
 ## Supported Platforms
 

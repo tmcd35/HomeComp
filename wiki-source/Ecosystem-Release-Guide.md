@@ -22,6 +22,7 @@ It answers:
 - [Easter 1978 - Advanced Monitor Tools and HC Cassette BASIC](Easter-1978-Advanced-Monitor-and-Cassette-BASIC.md)
 - [Mid 1978 — Scrolling LED Display](Mid-1978-Scrolling-LED-Display)
 - [September 1978 — HC-77B 8K ROM BASIC](September-1978-8K-ROM-BASIC)
+- [Late 1979 — HC-77B Text & Printer Pack](Late-1979-Text-and-Printer-Pack)
 
 ## Release Categories
 

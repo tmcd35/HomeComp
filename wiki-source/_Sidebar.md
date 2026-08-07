@@ -20,6 +20,7 @@
 - [Easter 1978 - Advanced Monitor Tools and HC-Cassette BASIC](Easter-1978-Advanced-Monitor-and-Cassette-BASIC)
 - [Mid 1978 - Scrolling LED Display](Mid-1978-Scrolling-LED-Display.md)
 - [September 1978 — 8K ROM BASIC](September-1978-8K-ROM-BASIC)
+- [Late 1979 — Text & Printer Pack](Late-1979-Text-and-Printer-Pack)
 
 ## 5. Expansion Bus API
 - [Overview](Expansion-Bus-API)
